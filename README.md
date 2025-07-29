@@ -1,6 +1,6 @@
 # 👋 Hi, I'm DevD
 
-🚀 **Network Platform Engineer** | 💻 **DevSecOps Enthusiast** | ⚙️ **Network Automation Advocate**
+🚀 **Network Platform Engineer** | 💻 **DevSecOps Enthusiast** | ⚙️ **Network Automation Advocate** | **AzureDevops**
 
 ---
 
@@ -10,8 +10,8 @@ I'm a Network Engineer with over **9 years of experience**, currently focused on
 
 - **Azure DevOps** for CI/CD and pipeline integration  
 - **Ansible & Git** for automating configurations  
-- **L3VPN**, **CPE provisioning**, and **core network patching**  
-- Cloud integration and onboarding across **Azure and AWS**
+- **CPE provisioning** **BGP OSPF STATIC** **MPLS** **CPE provisioning****L3VPN**, **CPE provisioning**, and **core network patching**  
+- Cloud integration and onboarding across **Core DC,Azure and AWS**
 
 Currently enrolled in a **DevSecOps Bootcamp (AWS + Azure)** to sharpen my cloud and security automation skills.
 
@@ -21,15 +21,15 @@ Currently enrolled in a **DevSecOps Bootcamp (AWS + Azure)** to sharpen my cloud
 
 - Infrastructure-as-Code using **Ansible** & **Terraform**
 - Network Automation using **Python**, **Netmiko**, and **REST APIs**
-- Lab simulations with **EVE-NG** and **GNS3**
+- Lab simulations with **Azure** and **AWS**
 - Secure CI/CD pipelines for network configuration delivery
 
 ---
 
 ## 📁 Projects Coming Soon
 
-- 📦 Automated L3VPN deployment with Ansible  
-- 🔐 Secure GitOps pipeline for network config management  
+- 📦 Automated Network /Infra/App deployment with Ansible and Python
+- 🔐 Secure GitOps pipeline for Infrastruture/App/network config management  
 - 🌐 Cloud-native peering automation (AWS & Azure)  
 - 🧪 DevNet-style test environments using Docker and Linux
 
